@@ -23,14 +23,14 @@ int main(){
   //encryption
   for(int i = 0; i < msg.length(); ++i)
       ecr += ((msg[i] + newKey[i]) % 26) + 'A';
-      
+
   //decryption
   for(int i = 0; i <  msg.length(); ++i)
       dec += (((ecr[i] - newKey[i]) + 26) % 26) + 'A';
 
   cout<<"Original Message: "<< msg <endl;
   cout<<"Key: "<<key << endl;
-  cout<<"New Generated Key: "<< newKeyz << endl;
+  cout<<"New Generated Key: "<< newKey << endl;
   cout<<"Encrypted Message: "<< ecr << endl;
   cout<<"Decrypted Message: "<< dec << endl;
 
