@@ -1,0 +1,80 @@
+1539110848861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.APE7OEkU64Mw"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539110878707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rokR3luHrUhc"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539110923468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6bgTlANQ2Sd3"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539110928373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Sw4BbNQ9tlIL"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539111035080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rnJ8gHYJYJHR"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539111114977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Lq9xJsQQ0JRd"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539111174770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NDFqvfQ5Iu8f"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539111359057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CJwx3aQYAhPZ"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539111463840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yAG7pKuwyJ2S"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539111643863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0pVpTGDg1PVA"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539112292236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QUJZUfT4KV5B"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539112394542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5CM0gPsu5qL0"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539112409499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CaojMFeKmpxQ"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539112601582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uG6JJDuGOzXI"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539112847111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eQOWqTqra0tB"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539112933787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1OQ0V8DgY5US"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539113029596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tC9st5cVajSr"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539113289404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.45m1MRAt26Go"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539113389822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aLxB0SnUO1mE"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
+1539114002646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iiweOAKgZaYr"
+XPCOMGlueLoad error for file /usr/lib/firefox/libssl3.so:
+/usr/lib/x86_64-linux-gnu/libnssutil3.so: version `NSSUTIL_3.38' not found (required by /usr/lib/firefox/libssl3.so)
+Couldn't load XPCOM.
