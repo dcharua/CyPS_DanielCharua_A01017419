@@ -1,10 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-browser = webdriver.Firefox()
+browser = webdriver.Chrome()
 
 browser.get('http://blazedemo.com/')
-# assert 'Yahoo' in browser.title
 
 select = browser.find_element_by_name('fromPort')
 options = select.find_elements_by_tag_name('option')
